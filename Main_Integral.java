@@ -1,4 +1,8 @@
-
+// All terms need to be separated by spaces.
+// Parentheses are always needed
+// Does not work with multiplication and division
+// Example:
+// (x)^2 + (4x)^2 + 2 cos(x)
 
 import java.util.ArrayList;
 import java.util.Scanner;
